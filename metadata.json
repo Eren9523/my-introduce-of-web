@@ -1,0 +1,8 @@
+{
+  "name": "企鹅站台",
+  "description": "企鹅站台 - 个人网络空间与项目展示",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
